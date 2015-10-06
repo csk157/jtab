@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/csk157/jtab#readme",
   "dependencies": {
-    "raphael": "^2.1.4",
+    "raphael": "^2.1.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
